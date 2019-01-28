@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "JPush-Category"
-  s.version      = "0.0.1"
+  s.version      = "1.0.1"
   s.summary      = "极光推送分类"
 
   s.homepage     = "https://github.com/18225905675/JPush-Category"
